@@ -1,0 +1,7 @@
+a = int(input('Digite uma medida em metros: '))
+print('A medida é ', end='')
+print(a, 'metros')
+print('A medida é ', end='')
+print(a*100, 'centímetros')
+print('A medida é ', end='')
+print(a*1000, 'milímetros')
