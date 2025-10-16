@@ -1,0 +1,7 @@
+a = int(input('Digite um numero: '))
+print('O número digitado foi: ', end='')
+print(a)
+print('O dobro do número digitado é: ', end='')
+print(a*2)
+print('A raiz quadrada do número digitado é: ', end='')
+print('{:.3f}'.format(a**(0.5)))
