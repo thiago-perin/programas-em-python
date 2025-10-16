@@ -1,0 +1,7 @@
+a = int(input('Digite um numero: '))
+print('O número digitado foi: ', end='')
+print(a)
+print('O sucessor do número digitado é: ', end='')
+print(a+1)
+print('O antecessor do número digitado é: ', end='')
+print(a-1)
