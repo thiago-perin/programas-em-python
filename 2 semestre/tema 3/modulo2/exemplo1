@@ -1,1 +1,6 @@
-x
+print('====== Explicação sobre format ======')
+a=int(input('Primeiro numero: '))
+b=int(input('Segundo numero: '))
+s=a+b
+print('A soma entre', a, 'e', b, 'é', s)
+print('A soma entre', a, 'e', b, 'é()'.format(s))
