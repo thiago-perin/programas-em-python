@@ -1,0 +1,11 @@
+frase = 'Curso em Vídeo Python'
+# para frases longas print(""" frases longas """)
+print('frase = ', frase) 
+print('frase.count(o) = ', frase.count('o'))
+print('frase.upper().count(o) = ', frase.upper().count('o'))
+print('len(frase) = ', len(frase))
+print('len(frase.strip()) = ', len(frase.strip()))
+print('frase.upper()) = ', frase.upper())
+print('frase.lower()) = ', frase.lower())
+vetor = print('frase.split()) = ', frase.split())
+print('frase.title()) = ', frase.title())
