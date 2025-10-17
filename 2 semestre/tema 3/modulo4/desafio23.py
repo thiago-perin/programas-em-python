@@ -1,4 +1,3 @@
-# numero digitado:= num
 a = (input('Digite um número de 0 a 9999: '))
 if a.isnumeric():
     num = int(a)
