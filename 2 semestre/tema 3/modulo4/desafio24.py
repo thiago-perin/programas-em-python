@@ -1,4 +1,3 @@
-# nome de uma cidade:= nome
 a = input('Digite o nome de uma cidade: ')
 
 if a.strip():
