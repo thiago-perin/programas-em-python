@@ -1,4 +1,3 @@
-# nome de uma pessoa:= nome
 a = input('Digite o nome de uma pessoa: ')
 
 if a.strip():
