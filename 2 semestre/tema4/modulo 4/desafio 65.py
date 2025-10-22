@@ -11,10 +11,9 @@ while b != 999:
         mai = max(b, mai)
         men = min(b, men)
         n += 1
-        media = s / n
 if n > 0:
     print('O menor número que você digitou é {}'.format(men))
     print('O maior número que você digitou é {}'.format(mai))
-    print('A média dos {} números que você digitou é {}'.format(n, media))
+    print('A média dos {} números que você digitou é {}'.format(n, s / n))
 else:
     print('Nenhum número válido foi digitado para gerar resultados')
